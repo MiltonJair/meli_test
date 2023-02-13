@@ -1,6 +1,6 @@
 # meli_test
 Work Sample | Shipping Sales BI
-- Este Repositorio es una prueba técnica para Mercado Libre, los datos son dummies
+- Este Repositorio es una prueba técnica para Mercado Libre, los datos son dummies.
 Para mejorar el análisis de datos en la empresa, se puede utilizar una solución escalable y confiable que combina Amazon Web Services, RDS PostgreSQL como base de datos, S3 como almacenamiento de objetos y GitHub como repositorio de código. Además, se utiliza Tableau como herramienta de Business Intelligence para visualizar y analizar los datos y obtener insights valiosos. Con esta solución, se pueden gestionar grandes cantidades de datos de manera segura y eficiente, y tomar decisiones informadas basadas en datos.
 
 Postgres SQL
