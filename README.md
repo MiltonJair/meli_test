@@ -16,4 +16,7 @@ Modelo E-R: Ventas
 Modelo E-R: Stock
 ![Entity Relationship Diagram (2)](https://user-images.githubusercontent.com/77754113/218520868-dad7816f-55a1-4179-867d-a5ca4997b70f.jpg)
 
+DATAVIZ
+https://public.tableau.com/app/profile/milton.jair.gomez.lucio/viz/Analysis-MELI/Analysis-MELI?publish=yes
+
 
