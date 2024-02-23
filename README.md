@@ -5,6 +5,10 @@ Introducción:
 
 Este repositorio presenta una prueba de concepto para un proyecto de análisis de datos. La finalidad de la prueba era evaluar la viabilidad de utilizar una solución escalable y confiable que combinara Amazon Web Services (AWS), RDS PostgreSQL, S3 y GitHub para mejorar el análisis de datos en la empresa.
 
+Aclaraciones:
+
+Los datos utilizados en este repositorio son ficticios ("dummies").
+
 Componentes de la solución:
 
 Amazon Web Services (AWS): Plataforma de computación en la nube que proporciona recursos escalables y confiables para el almacenamiento, procesamiento y análisis de datos.
@@ -20,9 +24,13 @@ Tableau: Herramienta de Business Intelligence para visualizar y analizar los dat
 Beneficios de la solución:
 
 Escalabilidad: La solución puede escalarse para gestionar grandes cantidades de datos a medida que la empresa crece.
+
 Confiabilidad: La solución se basa en tecnologías robustas y confiables de AWS.
+
 Seguridad: Los datos se almacenan de forma segura en AWS y RDS PostgreSQL.
+
 Colaboración: El código fuente se puede gestionar de forma colaborativa en GitHub.
+
 Análisis de datos: Tableau permite visualizar y analizar los datos de forma intuitiva y obtener insights valiosos.
 
 Próximos pasos:
