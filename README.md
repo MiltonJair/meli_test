@@ -1,7 +1,32 @@
 # meli_test
 Work Sample | Shipping Sales BI
-- Este Repositorio es una prueba técnica para Mercado Libre, los datos son dummies.
-Para mejorar el análisis de datos en la empresa, se puede utilizar una solución escalable y confiable que combina Amazon Web Services, RDS PostgreSQL como base de datos, S3 como almacenamiento de objetos y GitHub como repositorio de código. Además, se utiliza Tableau como herramienta de Business Intelligence para visualizar y analizar los datos y obtener insights valiosos. Con esta solución, se pueden gestionar grandes cantidades de datos de manera segura y eficiente, y tomar decisiones informadas basadas en datos.
+
+Introducción
+Este repositorio presenta una prueba de concepto para un proyecto de análisis de datos. La finalidad de la prueba era evaluar la viabilidad de utilizar una solución escalable y confiable que combinara Amazon Web Services (AWS), RDS PostgreSQL, S3 y GitHub para mejorar el análisis de datos en la empresa.
+
+Componentes de la solución:
+
+Amazon Web Services (AWS): Plataforma de computación en la nube que proporciona recursos escalables y confiables para el almacenamiento, procesamiento y análisis de datos.
+RDS PostgreSQL: Base de datos relacional escalable y segura para almacenar los datos.
+S3: Servicio de almacenamiento de objetos en la nube para almacenar grandes cantidades de datos de forma segura y eficiente.
+GitHub: Repositorio de código para gestionar el código fuente del proyecto de forma colaborativa.
+Tableau: Herramienta de Business Intelligence para visualizar y analizar los datos y obtener insights valiosos.
+Beneficios de la solución:
+
+Escalabilidad: La solución puede escalarse para gestionar grandes cantidades de datos a medida que la empresa crece.
+Confiabilidad: La solución se basa en tecnologías robustas y confiables de AWS.
+Seguridad: Los datos se almacenan de forma segura en AWS y RDS PostgreSQL.
+Colaboración: El código fuente se puede gestionar de forma colaborativa en GitHub.
+Análisis de datos: Tableau permite visualizar y analizar los datos de forma intuitiva y obtener insights valiosos.
+
+Próximos pasos:
+
+Implementar la solución en un entorno de producción.
+Capacitar a los usuarios en el uso de la solución.
+
+Presentación:
+https://docs.google.com/presentation/d/1VFp1Xut6dAmafGj2o6ggwExLh_k8xbv0fvEprRhWKFU/edit#slide=id.p
+
 
 Postgres SQL
 - Host: db-meli.c5wxfwm9oxhz.us-east-1.rds.amazonaws.com
