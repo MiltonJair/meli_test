@@ -1,7 +1,8 @@
 # meli_test
 Work Sample | Shipping Sales BI
 
-Introducción
+Introducción:
+
 Este repositorio presenta una prueba de concepto para un proyecto de análisis de datos. La finalidad de la prueba era evaluar la viabilidad de utilizar una solución escalable y confiable que combinara Amazon Web Services (AWS), RDS PostgreSQL, S3 y GitHub para mejorar el análisis de datos en la empresa.
 
 Componentes de la solución:
