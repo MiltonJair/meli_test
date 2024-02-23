@@ -30,7 +30,7 @@ Próximos pasos:
 Implementar la solución en un entorno de producción.
 Capacitar a los usuarios en el uso de la solución.
 
-Presentación:
+Presentación / Insights:
 https://docs.google.com/presentation/d/1VFp1Xut6dAmafGj2o6ggwExLh_k8xbv0fvEprRhWKFU/edit#slide=id.p
 
 
