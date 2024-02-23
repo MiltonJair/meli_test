@@ -7,10 +7,15 @@ Este repositorio presenta una prueba de concepto para un proyecto de análisis d
 Componentes de la solución:
 
 Amazon Web Services (AWS): Plataforma de computación en la nube que proporciona recursos escalables y confiables para el almacenamiento, procesamiento y análisis de datos.
+
 RDS PostgreSQL: Base de datos relacional escalable y segura para almacenar los datos.
+
 S3: Servicio de almacenamiento de objetos en la nube para almacenar grandes cantidades de datos de forma segura y eficiente.
+
 GitHub: Repositorio de código para gestionar el código fuente del proyecto de forma colaborativa.
+
 Tableau: Herramienta de Business Intelligence para visualizar y analizar los datos y obtener insights valiosos.
+
 Beneficios de la solución:
 
 Escalabilidad: La solución puede escalarse para gestionar grandes cantidades de datos a medida que la empresa crece.
