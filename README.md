@@ -3,16 +3,38 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+## 📖 Acerca de Este Proyecto
+
+Este es un proyecto de **Business Intelligence (BI)** desarrollado como prueba de concepto para el análisis de ventas y gestión de inventario en el contexto de un marketplace. El proyecto demuestra la implementación de una solución completa de análisis de datos utilizando tecnologías modernas de la nube y herramientas de visualización.
+
+### ¿Qué hace este proyecto?
+
+- **Almacena y gestiona** datos de ventas, inventario, publicaciones y segmentos de vendedores
+- **Analiza** patrones de ventas y comportamiento del inventario mediante consultas SQL avanzadas
+- **Visualiza** métricas e indicadores clave mediante dashboards interactivos en Tableau
+- **Integra** servicios de AWS (RDS PostgreSQL, S3) para un almacenamiento escalable y seguro
+
+### Tecnologías Principales
+
+- **Base de Datos**: PostgreSQL en AWS RDS
+- **Almacenamiento**: Amazon S3
+- **Visualización**: Tableau Desktop/Public
+- **Control de Versiones**: GitHub
+- **Infraestructura**: Amazon Web Services (AWS)
+
+---
+
 ## 📋 Tabla de Contenidos
 
-- [Introducción](#introducción)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Configuración](#configuración)
-- [Componentes de la Solución](#componentes-de-la-solución)
-- [Documentación](#documentación)
-- [Visualización de Datos](#visualización-de-datos)
-- [Contribuir](#contribuir)
-- [Licencia](#licencia)
+- [Acerca de Este Proyecto](#-acerca-de-este-proyecto)
+- [Introducción](#-introducción)
+- [Estructura del Proyecto](#-estructura-del-proyecto)
+- [Configuración](#️-configuración)
+- [Componentes de la Solución](#️-componentes-de-la-solución)
+- [Documentación](#-documentación)
+- [Visualización de Datos](#-visualización-de-datos)
+- [Contribuir](#-contribuir)
+- [Licencia](#-licencia)
 
 ## 🎯 Introducción
 
